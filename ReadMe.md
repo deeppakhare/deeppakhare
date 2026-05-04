@@ -1,5 +1,5 @@
 # 💫 About Me:
-Ex Intern @Infosys Springboard<br>B.Tech CSE Student<br>Aspiring Entrepreneur & Software Engineer<br>Passionate About Startup & Business Development
+Ex Intern @Infosys Springboard | IndiaSkills 25–26 State Finalist (Software Application Development) | B.Tech CSE Student |Aspiring Entrepreneur & Software Engineer | Passionate About Startup & Business Development
 
 
 ## 🌐 Socials:
