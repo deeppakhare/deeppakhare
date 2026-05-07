@@ -1,3 +1,5 @@
+  ![](https://komarev.com/ghpvc/?username=deeppakhare&style=flat-square)
+
 # 💫 About Me:
 Ex Intern @Infosys Springboard | IndiaSkills 25–26 State Finalist (Software Application Development) | B.Tech CSE Student |Aspiring Entrepreneur & Software Engineer | Passionate About Startup & Business Development
 
