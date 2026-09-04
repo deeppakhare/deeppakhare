@@ -2,7 +2,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDE0NWtqajVxY3dlMXN6NGY5cGpmcHg5Mmp3ZWhrNmloZjk3dnFqNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="200" height="150/>
 </div>
 
-![logo](https://github.com/deeppakhare/GIF/blob/main/githubgif.gif)
+![logo](https://raw.githubusercontent.com/deeppakhare/deeppakhare/refs/heads/main/githubgif.gif)
 <p align="center">
   <img src="https://img.shields.io/badge/MERN-Stack-ff69b4" alt="MERN Badge" />
   <img src="https://img.shields.io/badge/Redux -React-blue" alt="Next.js Badge" />
@@ -10,10 +10,14 @@
   <img src="https://img.shields.io/badge/DSA-Data_Structures-ff4500" alt="DSA Badge" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Deep Pakhare</h1>
-<h3 align="center">A passionate Full Stack developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+---
+
+
+<h1 align="center">Hi 👋, I'm Deep Pakhare <br/>  </h1>
+<h3 align="center">A passionate Full Stack developer </h3>
+
+<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deeppakhare&label=Profile%20views&color=0e75b6&style=flat" alt="deeppakhare" /> </p>
 <p align="left">- -👨‍💻 Connect with me from here :- (https://linktr.ee/deeppakhare)</p>
@@ -56,11 +60,11 @@
 
 ### 🧰 Tools & Others
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,postman,vscode,idea,grafana,arduino&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=figma,postman,vscode,git&theme=dark" />
 </p>
 
 ---
----
+
 
 <!-- Snake Contribution Animation -->
 <picture>
@@ -78,16 +82,11 @@
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=deeppakhare&layout=compact&theme=radical" height="170" />
 </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=deeppakhare&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=deeppakhare&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=deeppakhare&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
