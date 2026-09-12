@@ -2,7 +2,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDE0NWtqajVxY3dlMXN6NGY5cGpmcHg5Mmp3ZWhrNmloZjk3dnFqNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="200" height="150/>
 </div>
 
-![logo](https://raw.githubusercontent.com/deeppakhare/deeppakhare/refs/heads/main/githubgif.gif)
+![logo](https://cdna.artstation.com/p/assets/images/images/060/460/880/original/pixel-jeff-chill-mario-2023-2.gif?1678633376)
 <p align="center">
   <img src="https://img.shields.io/badge/MERN-Stack-ff69b4" alt="MERN Badge" />
   <img src="https://img.shields.io/badge/Redux -React-blue" alt="Next.js Badge" />
