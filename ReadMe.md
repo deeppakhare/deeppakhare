@@ -1,7 +1,4 @@
 
-
-
-
 <div align="center">
   <img src="https://github.com/deeppakhare/Achievements/blob/main/pixel-jeff-chill-mario-2023-2.gif"/>
 </div>
@@ -35,9 +32,12 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deeppakhare6669)
 [![Twitter](https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/deep_pakhare)
-[![Email](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](mailto:deeppakhare19@gmail.com)
-[![Medium](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=linktree&logoColor=white)](https://medium.com/@deeppakhare19)
-[![Discord](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://discord.gg/evV9a5eT)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deeppakhare19@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/deep_pakhare.01/)
+</br>
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/deeppakhare)
+[![Medium](https://img.shields.io/badge/Medium-292929?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@deeppakhare19)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/evV9a5eT)
 
 </div>
 
