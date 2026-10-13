@@ -3,7 +3,7 @@
   <img src="https://github.com/deeppakhare/Achievements/blob/main/pixel-jeff-chill-mario-2023-2.gif"/>
 </div>
 
-
+---
 
 <p align="center">
   <img src="https://img.shields.io/badge/MERN-Stack-ff69b4" alt="MERN Badge" />
@@ -13,11 +13,13 @@
 </p>
 
 
----
 
 
-<h1 align="center">Hi 👋, I'm Deep Pakhare <br/>  </h1>
+
+<h1 align="center">Hi 👋, I'm Deep Pakhare   </h1> 
 <h3 align="center">A passionate Full Stack Web Developer </h3>
+
+---
 
 <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
